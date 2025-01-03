@@ -1,0 +1,5252 @@
+[
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/WaitWhat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/WhatDidYouSay.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Hiding.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Happy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Sleepy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/WhatIsThat.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/BigYawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Sad.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Helpme.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Laughing.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/SoHappy.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/MMMM.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/ILoveYou.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Yummy.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Yawn.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/What.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Curious.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOM_DIA.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/SoWarm.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/BOMM.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelMoon.png"
+  },
+  {
+    "face": "../face/Huh.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Kemonokaki.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/6.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Remilio.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/HwanYing.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Guy.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MIAU.png",
+    "bottom": "../bottom/Lain.png"
+  },
+  {
+    "face": "../face/IamBaby.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/AngelSailor.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/MEOW.png",
+    "bottom": "../bottom/Angel.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/Sparkle.png"
+  },
+  {
+    "face": "../face/OhNo.png",
+    "top": "../top/HARU.png",
+    "bottom": "../bottom/AngelSailor.png"
+  }
+]
